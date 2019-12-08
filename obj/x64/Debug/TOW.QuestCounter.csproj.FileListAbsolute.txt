@@ -1,0 +1,15 @@
+D:\Files\Coding\VS2017\TOW.QuestCounter\TOW.QuestCounter\bin\x64\Debug\TOW.QuestCounter.exe.config
+D:\Files\Coding\VS2017\TOW.QuestCounter\TOW.QuestCounter\bin\x64\Debug\TOW.QuestCounter.exe
+D:\Files\Coding\VS2017\TOW.QuestCounter\TOW.QuestCounter\bin\x64\Debug\TOW.QuestCounter.pdb
+D:\Files\Coding\VS2017\TOW.QuestCounter\TOW.QuestCounter\obj\x64\Debug\MainWindow.g.cs
+D:\Files\Coding\VS2017\TOW.QuestCounter\TOW.QuestCounter\obj\x64\Debug\App.g.cs
+D:\Files\Coding\VS2017\TOW.QuestCounter\TOW.QuestCounter\obj\x64\Debug\TOW.QuestCounter_MarkupCompile.cache
+D:\Files\Coding\VS2017\TOW.QuestCounter\TOW.QuestCounter\obj\x64\Debug\TOW.QuestCounter_MarkupCompile.lref
+D:\Files\Coding\VS2017\TOW.QuestCounter\TOW.QuestCounter\obj\x64\Debug\MainWindow.baml
+D:\Files\Coding\VS2017\TOW.QuestCounter\TOW.QuestCounter\obj\x64\Debug\TOW.QuestCounter.g.resources
+D:\Files\Coding\VS2017\TOW.QuestCounter\TOW.QuestCounter\obj\x64\Debug\TOW.QuestCounter.Properties.Resources.resources
+D:\Files\Coding\VS2017\TOW.QuestCounter\TOW.QuestCounter\obj\x64\Debug\TOW.QuestCounter.csproj.GenerateResource.cache
+D:\Files\Coding\VS2017\TOW.QuestCounter\TOW.QuestCounter\obj\x64\Debug\TOW.QuestCounter.csproj.CoreCompileInputs.cache
+D:\Files\Coding\VS2017\TOW.QuestCounter\TOW.QuestCounter\obj\x64\Debug\TOW.QuestCounter.exe
+D:\Files\Coding\VS2017\TOW.QuestCounter\TOW.QuestCounter\obj\x64\Debug\TOW.QuestCounter.pdb
+D:\Files\Coding\VS2017\TOW.QuestCounter\TOW.QuestCounter\obj\x64\Debug\TOW.QuestCounter.csprojAssemblyReference.cache
